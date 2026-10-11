@@ -37,4 +37,12 @@ UPCOMMING PROGRAMMING IDEAS
 23). game_of_life, with my own 2d library (with face 3d some like old doom)
 24). Ascii video genrator ( support multithreading )
 25). boomer in c (zooming tool ) (Mister zozin)
+
 26). Operating system.
+
+28) uxn project:
+       https://100r.co/site/uxn.html\
+       
+29) fake6502, NES Emulator, 8086 Emulator:
+       http://rubbermallet.org/fake6502.c
+       http://rubbermallet.org/

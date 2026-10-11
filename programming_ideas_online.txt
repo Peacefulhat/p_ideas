@@ -1,6 +1,1 @@
-1) uxn project:
-       https://100r.co/site/uxn.html\
-2) fake6502, NES Emulator, 8086 Emulator:
-       http://rubbermallet.org/fake6502.c
-       http://rubbermallet.org/
 

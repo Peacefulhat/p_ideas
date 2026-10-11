@@ -1,6 +1,6 @@
 ->dive into stystems
   ->https://diveintosystems.org/
-
+  
 -> Run length encoding.
 -> co-recursion.
 -> Byte pair encoding
