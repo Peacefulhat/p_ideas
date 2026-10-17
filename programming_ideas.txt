@@ -47,4 +47,6 @@ UPCOMMING PROGRAMMING IDEAS
        http://rubbermallet.org/fake6502.c
        http://rubbermallet.org/
 
-30) xorshift generator
+30) xorshift generator.
+31) A hash map implemented with quadratic probing and SIMD lookup.
+

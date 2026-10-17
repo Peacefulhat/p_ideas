@@ -10,5 +10,5 @@
 -> Luminance formula
 -> Recreated Lena
 -> Brian Kernighan's algorithm (count set bits in O(logn).
-
-
+-> The hash table implementation is a Rust port of Google’s SwissTable. 
+-> Type varience(co-varience)
